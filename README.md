@@ -1,7 +1,5 @@
 # Welcome to My GitHub Repository! 👋
 
-[![Animation](https://img.shields.io/badge/emoji-%F0%9F%8E%89-blueviolet)](https://example.com)
-
 ## About Me
 
 Hello there! I'm Roberto Martinez Barragan, a passionate developer currently studying at the University of Guadalajara. I'm excited about building web applications and exploring different technologies. Here are a few details about me:
