@@ -6,4 +6,4 @@
 
 ## About Me 🙋‍♂️
 
-- [<img src="https://github.com/rmb24/rmb24/blob/main/assets/archlinux-icon.svg"></img>]btw i use Arch
+-btw i use Arch <img src="https://github.com/rmb24/rmb24/blob/main/assets/archlinux-icon.svg" alt="Arch Linux" width="16px"
